@@ -1,6 +1,6 @@
-package todoList.dao;
+package todolist.dao;
 
-import consultation.todolist.model.Task;
+import todolist.model.Task;
 
 public interface ToDoList {
     // add Task

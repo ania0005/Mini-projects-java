@@ -1,8 +1,8 @@
-package todoList;
+package todolist;
 
-import consultation.todolist.dao.ToDoListImpl;
-import consultation.todolist.model.Menu;
-import consultation.todolist.model.Task;
+import  todolist.dao.ToDoListImpl;
+import todolist.model.Menu;
+import todolist.model.Task;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

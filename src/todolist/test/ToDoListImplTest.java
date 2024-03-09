@@ -1,4 +1,4 @@
-package todoList.test;
+package todolist.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

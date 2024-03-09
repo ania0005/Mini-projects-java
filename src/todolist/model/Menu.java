@@ -1,4 +1,4 @@
-package todoList.model;
+package todolist.model;
 
 public enum Menu {
     ADD(1, "Add task"), LIST(2, "List of tasks"), REMOVE(3, "Remove task") ,SAVE (4, "Save"),EXIT(5, "Exit");

@@ -1,4 +1,4 @@
-package todoList.model;
+package todolist.model;
 
 import java.io.Serializable;
 import java.util.Objects;
